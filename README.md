@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Mateus Demartino Bastos, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID (Cruzeiro do Sul) e formação Programação Fullstack completo (Genial Cursos) para me tornar um desenvolvedor fullstack. Estou começando minha jornada na programação, interessado em aprender cada vez mais e expandir minhas habilidades. No momento estou explorando linguagens e tecnologias como html, css, sass, javascript, jquery, bootstrap e react, onde estou criando projetos para aperfeiçoar essas tecnologias cada vez mais. Sou apaixonado por aprender e transformar ideias em projetos reais. Estou em constante aprendizado para adquirir novos conhecimentos para me desenvolver profissionalmente.
+Meu nome é Mateus Demartino Bastos, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID (Universidade Cidade de São Paulo) e formação Programação Fullstack completo (Genial Cursos) para me tornar um desenvolvedor fullstack. Estou começando minha jornada na programação, interessado em aprender cada vez mais e expandir minhas habilidades. No momento estou explorando linguagens e tecnologias como html, css, sass, javascript, jquery, bootstrap e react, onde estou criando projetos para aperfeiçoar essas tecnologias cada vez mais. Sou apaixonado por aprender e transformar ideias em projetos reais. Estou em constante aprendizado para adquirir novos conhecimentos para me desenvolver profissionalmente.
 
 <p align="left">
     <a href="https://github.com/Mateus-DB?tab=repositories&sort=stargazers">
