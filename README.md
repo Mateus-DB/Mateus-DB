@@ -89,6 +89,14 @@ Meu nome é Mateus Demartino Bastos, tenho 25 anos e sou de São Paulo. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="worpress" 
+    title="wordpress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+/>
 
 <br/>
 <br/>
