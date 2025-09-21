@@ -71,7 +71,7 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
     title="Tailwind-CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwind-css/tailwind-css-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
@@ -113,14 +113,7 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
 />
-<img 
-    align="left" 
-    alt="n8n" 
-    title="n8n"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" 
-/>
+
 
 <br/>
 <br/>
