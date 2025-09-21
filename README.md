@@ -113,6 +113,14 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
 />
+<img 
+    align="left" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" 
+/>
 
 
 <br/>
