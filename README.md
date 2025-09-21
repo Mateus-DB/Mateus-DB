@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Mateus Demartino Bastos, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID (Universidade Cidade de São Paulo) e formações complementares na Udemy para me tornar um desenvolvedor fullstack. Estou começando minha jornada na programação, interessado em aprender cada vez mais e expandir minhas habilidades. No momento estou explorando linguagens e tecnologias como html, css, sass, javascript, jquery, bootstrap, tailwind css e react, onde estou criando projetos para aperfeiçoar essas tecnologias cada vez mais. Sou apaixonado por aprender e transformar ideias em projetos reais. Estou em constante aprendizado para adquirir novos conhecimentos para me desenvolver profissionalmente.
+Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID (Universidade Cidade de São Paulo) e formações complementares na Udemy para me tornar um desenvolvedor fullstack. Estou começando minha jornada na programação, interessado em aprender cada vez mais e expandir minhas habilidades. No momento estou explorando linguagens e tecnologias como html, css, sass, javascript, jquery, bootstrap, tailwind css e react, onde estou criando projetos para aperfeiçoar essas tecnologias cada vez mais. Sou apaixonado por aprender e transformar ideias em projetos reais. Estou em constante aprendizado para adquirir novos conhecimentos para me desenvolver profissionalmente.
 
 <p align="left">
     <a href="https://github.com/Mateus-DB?tab=repositories&sort=stargazers">
@@ -59,6 +59,22 @@ Meu nome é Mateus Demartino Bastos, tenho 25 anos e sou de São Paulo. Atualmen
 />
 <img 
     align="left" 
+    alt="Typescript"
+    title="Typescript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Typescript/Typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind"
+    title="Tailwind" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Tailwind/Tailwind-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -96,6 +112,14 @@ Meu nome é Mateus Demartino Bastos, tenho 25 anos e sou de São Paulo. Atualmen
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/N8N/N8N-original.svg" 
 />
 
 <br/>
