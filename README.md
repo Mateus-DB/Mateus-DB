@@ -63,7 +63,7 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
     title="Typescript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Typescript/Typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -71,7 +71,7 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
     title="Tailwind" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Tailwind/Tailwind-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwind/tailwind-original.svg" 
 />
 <img 
     align="left" 
@@ -107,8 +107,8 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
 />
 <img 
     align="left" 
-    alt="worpress" 
-    title="wordpress"
+    alt="Worpress" 
+    title="Wordpress"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
@@ -119,7 +119,7 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
     title="N8N"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/N8N/N8N-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" 
 />
 
 <br/>
