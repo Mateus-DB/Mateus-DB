@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Front-end`**
 
-# Olá, eu sou Mateus Demartino Bastos 👋
-
 Sou **Desenvolvedor Front-end em formação**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS) na UNICID**.
 
 Tenho foco no desenvolvimento de aplicações web modernas e experiência prática na criação de projetos utilizando **JavaScript, TypeScript, React, Next.js, Tailwind CSS e Shadcn/ui**. Também venho expandindo meus conhecimentos em **Node.js, APIs REST, integração com Inteligência Artificial e desenvolvimento Full Stack**.
