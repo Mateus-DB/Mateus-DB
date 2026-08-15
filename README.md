@@ -146,7 +146,7 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
     title="React-Testing-Library"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react-testinglibrary/reacttestinglibrary-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reacttestinglibrary/reacttestinglibrary-original.svg" 
 />
 <img 
     align="left" 
