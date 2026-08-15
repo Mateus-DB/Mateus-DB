@@ -141,12 +141,12 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
 />
 <img 
-    align="left" 
-    alt="React-Testing-Library" 
-    title="React-Testing-Library"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reacttestinglibrary/reacttestinglibrary-original.svg" 
+  align="left" 
+  alt="React Testing Library" 
+  title="React Testing Library"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/testinglibrary/testinglibrary-original.svg" 
 />
 <img 
     align="left" 
