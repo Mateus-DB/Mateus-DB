@@ -106,7 +106,7 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
   title="Express"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.simpleicons.org/express" 
+  src="https://cdn.simpleicons.org/express/ffffff" 
 />
 <img 
     align="left" 
