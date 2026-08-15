@@ -109,12 +109,12 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
   src="https://cdn.simpleicons.org/express/FFFFFF/FFFFFF"
  />
 <img 
-    align="left" 
-    alt="Fastify"
-    title="Fastify" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+  align="left" 
+  alt="Fastify" 
+  title="Fastify"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://dl.svgcdn.com/svg/logos/fastify-icon.svg" 
 />
 <img 
     align="left" 
