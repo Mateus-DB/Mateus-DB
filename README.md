@@ -99,11 +99,11 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="MongoDB" 
+    title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <img 
     align="left" 
