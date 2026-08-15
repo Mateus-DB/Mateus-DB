@@ -117,6 +117,14 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
   src="https://cdn.simpleicons.org/fastify/00c7b7" 
 />
 <img 
+  align="left" 
+  alt="Prisma" 
+  title="Prisma"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+<img 
     align="left" 
     alt="PostgreSQl" 
     title="PostgreSQL"
