@@ -2,7 +2,20 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID (Universidade Cidade de São Paulo) e formações complementares na Udemy para me tornar um desenvolvedor fullstack. Estou começando minha jornada na programação, interessado em aprender cada vez mais e expandir minhas habilidades. No momento estou explorando linguagens e tecnologias como html, css, sass, javascript, jquery, bootstrap, tailwind css e react, onde estou criando projetos para aperfeiçoar essas tecnologias cada vez mais. Sou apaixonado por aprender e transformar ideias em projetos reais. Estou em constante aprendizado para adquirir novos conhecimentos para me desenvolver profissionalmente.
+# Olá, eu sou Mateus Demartino Bastos 👋
+
+Sou **Desenvolvedor Front-end em formação**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS) na UNICID**.
+
+Tenho foco no desenvolvimento de aplicações web modernas e experiência prática na criação de projetos utilizando **JavaScript, TypeScript, React, Next.js, Tailwind CSS e Shadcn/ui**. Também venho expandindo meus conhecimentos em **Node.js, APIs REST, integração com Inteligência Artificial e desenvolvimento Full Stack**.
+
+Acredito que a melhor forma de evoluir como desenvolvedor é através da prática. Por isso, utilizo meus projetos para aplicar conceitos como **componentização, responsividade, consumo de APIs, gerenciamento de formulários, validação de dados, integração com serviços externos e boas práticas de desenvolvimento**.
+
+🚀 Estou constantemente buscando evoluir minhas habilidades, aprender novas tecnologias e transformar ideias em soluções funcionais.
+
+🎯 **Atualmente, busco uma oportunidade como Desenvolvedor Front-end Júnior**, onde possa contribuir com meus conhecimentos, trabalhar em projetos reais e continuar evoluindo profissionalmente junto a uma equipe de tecnologia.
+
+📌 Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
+
 
 <p align="left">
     <a href="https://github.com/Mateus-DB?tab=repositories&sort=stargazers">
