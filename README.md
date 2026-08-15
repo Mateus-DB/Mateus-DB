@@ -75,11 +75,11 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
 />
 <img 
     align="left" 
-    alt="Node"
-    title="Node" 
+    alt="Nodejs"
+    title="Nodejs" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
