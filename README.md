@@ -134,11 +134,11 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
 />
 <img 
     align="left" 
-    alt="Jest" 
-    title="Jest"
+    alt="Vitest" 
+    title="Vitest"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
 />
 <img 
     align="left" 
