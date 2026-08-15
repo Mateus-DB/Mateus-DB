@@ -105,8 +105,8 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
   alt="Express" 
   title="Express"
   width="30px" 
-  style="padding-right: 10px; filter: invert(1);" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+  style="padding-right: 10px;" 
+  src="https://api.iconify.design/devicon:express.svg"
 />
 <img 
     align="left" 
