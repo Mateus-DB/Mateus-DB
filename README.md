@@ -114,7 +114,7 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
   title="Fastify"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://dl.svgcdn.com/svg/logos/fastify-icon.svg" 
+  src="https://cdn.simpleicons.org/fastify" 
 />
 <img 
     align="left" 
