@@ -94,14 +94,6 @@ Acredito que a melhor forma de evoluir como desenvolvedor é através da prátic
 />
 <img 
     align="left" 
-    alt="Shadcn-ui"
-    title="Shadcn-ui" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shadcnui/shadcnui-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Nodejs"
     title="Nodejs" 
     width="30px" 
