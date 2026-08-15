@@ -91,11 +91,11 @@ Meu nome é Mateus Demartino Bastos, tenho 26 anos e sou de São Paulo. Atualmen
 />
 <img 
     align="left" 
-    alt="Express" 
-    title="Express"
+    alt="Expressjs" 
+    title="Expressjs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expressjs/expressjs-original.svg" 
 />
 <img 
     align="left" 
